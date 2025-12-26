@@ -1,45 +1,27 @@
-# Full Stack .NET Developer | C# | ASP.NET | SQL Server
+# 🎓 Eduwise – Smart Education Management System
 
-Hi 👋 I'm **dotnetAbhi**, a passionate **Full Stack .NET Developer** who loves building scalable, secure, and real-world web applications using Microsoft technologies.
-
----
-
-## 💻 Tech Stack
-- **Languages:** C#, SQL
-- **Frameworks:** ASP.NET, ASP.NET MVC
-- **Frontend:** HTML, CSS, JavaScript
-- **Database:** SQL Server
-- **Tools:** Git, GitHub, Visual Studio
+Eduwise is a **Full Stack .NET web application** designed to simplify and digitalize educational management processes.  
+It helps institutions manage students, courses, and academic data efficiently through a secure and user-friendly platform.
 
 ---
 
-## 🚀 What I Do
-- Build full stack web applications using .NET
-- Practice clean and maintainable code
-- Learn new technologies and improve daily
-- Share projects and coding practice on GitHub
+## 🚀 Features
+- Student Management System
+- Course & Subject Management
+- Teacher / Admin Dashboard
+- Secure Login & Authentication
+- Centralized Database Management
+- Responsive and User-Friendly UI
 
 ---
 
-## 📂 Featured Projects
-- 🔹 **ASP.NET Web Applications**
-- 🔹 **C# Practice Programs**
-- 🔹 **SQL Server Database Projects**
-- 🔹 **Full Stack .NET Projects**
+## 🛠️ Tech Stack
+- **Backend:** ASP.NET / ASP.NET MVC  
+- **Language:** C#  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** SQL Server  
+- **Tools:** Visual Studio, Git, GitHub  
 
 ---
 
-## 🌱 Currently Learning
-- Advanced ASP.NET
-- Web APIs
-- Software Architecture
 
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/dotnetAbhi
-- LinkedIn: (add your LinkedIn link here)
-
----
-
-⭐ If you like my work, feel free to **star my repositories** and follow me!
